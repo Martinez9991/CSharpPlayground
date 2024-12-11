@@ -73,6 +73,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToSQL", "LinqToSQL\Linq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanCode", "CleanCode\CleanCode.csproj", "{CC5CBAD8-8481-4C72-A0CD-FC2D0E66D16D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{B6CF7CEF-E601-416A-A0B7-92EF20147F75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagementSystem", "TaskManagementSystem\TaskManagementSystem.csproj", "{929BF35C-7293-41E5-BC23-D03C3B1954BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +223,14 @@ Global
 		{CC5CBAD8-8481-4C72-A0CD-FC2D0E66D16D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC5CBAD8-8481-4C72-A0CD-FC2D0E66D16D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC5CBAD8-8481-4C72-A0CD-FC2D0E66D16D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6CF7CEF-E601-416A-A0B7-92EF20147F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6CF7CEF-E601-416A-A0B7-92EF20147F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6CF7CEF-E601-416A-A0B7-92EF20147F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6CF7CEF-E601-416A-A0B7-92EF20147F75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{929BF35C-7293-41E5-BC23-D03C3B1954BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929BF35C-7293-41E5-BC23-D03C3B1954BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929BF35C-7293-41E5-BC23-D03C3B1954BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929BF35C-7293-41E5-BC23-D03C3B1954BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
